@@ -1,4 +1,3 @@
 {
-	"Jobs" : "The Jobs Menu is which jobs can and can't use the Dumpster.\nYou can have your selection as either a whitelist or a blacklist.\nThe whitelist means that the jobs you select CAN use the Dumpster, while all de-selected jobs are UNABLE to use the Dumpster.\nThe blacklist means that the jobs you select CANNOT use the Dumpster, while all de-selected jobs are ABLE to use the Dumpster.",
-	"Testing Title" : "kek"
+	"Jobs" : "The Jobs Menu is which jobs can and can't use the Dumpster.\nYou can have your selection as either a whitelist or a blacklist.\nThe whitelist means that the jobs you select CAN use the Dumpster, while all de-selected jobs are UNABLE to use the Dumpster.\nThe blacklist means that the jobs you select CANNOT use the Dumpster, while all de-selected jobs are ABLE to use the Dumpster."
 }

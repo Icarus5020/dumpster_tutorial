@@ -1,0 +1,6 @@
+{
+	"Spawning the Dumpster" :  "To spawn a Dumpster, <<{Best method of spawning dumpster? Q menu > Entites?}>>.\nYou can then save the position of all Dumpsters by typing 'icarus_dumpster_save' in console.\nTo edit how a specific Dumpster works, look at it then type 'icarus_dumpster_admin' in console.",
+	"Misc" : "The 'Model' is what the dumpster looks like, with the default model being the Half-Life 2 Dumpster.\nThe Search cooldown is the minimum time between searching each individual dumpster.\nThe Reward chance is the chance that the player recieved a dropped item from the Dumpster.\n<<{Transfer currency?}>>"
+	"Chances" : "The chances section is the rate of drops for each type of item.\nYou can change the drop rates for entities, weapons, currency and props in the main tab in the admin menu.\nIt has to be a number ranging from 0-100.\nThe total drop rate sum of entities, weapons, currency and props must equal 100."
+	"Channel time" : "The Channel time is how long it takes to search through a Dumpster.\nRandomized channel time means any time between the 'Min channel time' and 'Max channel time' in seconds.\nIf you are not using randomized channel time, the 'Channel time if not random' setting will be used."
+}

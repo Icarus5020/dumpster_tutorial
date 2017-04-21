@@ -1,0 +1,3 @@
+{
+	"Entities" : "The Entities Menu allows you to add entities to the possible drops.\nThe 'Name' is whatever you want to name this entity.\nThe 'Chance' is what chance this has to drop, which is also effected by the entity drop chance under 'Chances'.\nThe 'Reward' is the proper name of the entity that drops, such as 'money_printer'."
+}

@@ -1,0 +1,3 @@
+{
+	"Props" : "The Props Menu allows any prop from the Q menu to be dropped.\nThe Props Menu follows the exact same format as the Entities Menu.\nThe Reward name of props can be found by going into the Q menu, right clicking a prop, then clicking copy. This can be pasted into the 'Reward' section."
+}

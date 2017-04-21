@@ -1,0 +1,3 @@
+{
+	"Currency" : "The Currency Menu allows you to add money as a potential drop.\nThe Currency Menu follows a similar format as the Entities and Weapons Menues, with one exception.\nThe Reward is the exact amount of money that can be dropped."
+}
